@@ -1,0 +1,9 @@
+/* define the color variable */
+$blue: #0000ff;
+
+/* style the list items */
+li {
+    color: $blue;
+    padding-left: 10px;
+    margin-bottom: 15px;
+}
